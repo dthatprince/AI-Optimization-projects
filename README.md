@@ -22,7 +22,7 @@ My List of Linear/Hard Constraint Programming, Metaheuristic and Multi-Objective
 ## Project 4: Window Profile Stock Management Software Development
 **Description:** Developed software to optimize the management of profile stocks for a window manufacturing company, Vulex. The software allows the company to defer window production by one week on average to optimize profile usage. The objective is to achieve cost savings that pay off the software investment in just three years. The software enables the company to delay window production by one week on average, reducing costs and improving resource utilization. The goal is to recover the software investment within three years through cost savings. The project involves complex calculations, cost analysis, and customer satisfaction metrics to provide a comprehensive solution.
 
-**Link:** [Project 4 Repository](insert_link_here)
+**Link:** [Project 4 Repository](https://github.com/dthatprince/AI-Optimization-projects/tree/main/Velux%20Window%20Profile%20Stock%20Management%20Software%20Development)
 
 ## Project 5: Monte Carlo Modeling and Algorithm Implementation for AI development
 **Description:** Implemented the Monte Carlo algorithm with tree mining to create an Artificial Intelligence system capable of playing Tic-Tac-Toe. This AI is designed to make intelligent moves and provide a challenging gaming experience.
