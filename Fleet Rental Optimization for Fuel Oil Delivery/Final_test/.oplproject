@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="Configuration1" category="opl">
+            			
+            <ref name="Final_test.mod" type="model">
+			</ref>
+            			
+            <ref name="Final_test.ops" type="setting">
+			</ref>
+            			
+            <ref name="Final_test.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
