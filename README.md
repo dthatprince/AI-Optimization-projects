@@ -7,7 +7,7 @@ My List of Linear/Hard Constraint Programming, Metaheuristic and Multi-Objective
 ## Project 1: Fleet Rental Optimization for Fuel Oil Delivery
 **Description:** In this project, I tackled the complex challenge faced by a private fuel oil delivery company operating in a highly seasonal market. With the majority of their deliveries concentrated in a five-month period and significant fluctuations in demand, I developed an optimization strategy to determine the most cost-effective combination of rental contracts for their truck fleet. By considering 12-month, 6-month, and 3-month rental options, I aimed to minimize the annual rental cost while ensuring the company met monthly delivery demand. This project involved formulating a linear programming model and implementing a heuristic approach to provide practical solutions. Ultimately, the optimization strategy enabled the company to efficiently allocate its resources, reducing costs and ensuring timely deliveries to their customers.
 
-**Link:** [Project 1 Repository](insert_link_here)
+**Link:** [Project 1 Repository](https://github.com/dthatprince/AI-Optimization-projects/tree/main/Artificial%20Bees%20Colony%20(ABC)%20-%20Continuous%20and%20Discrete%20Cases)
 
 ## Project 2: Multi-Objective IoT Service Placement Optimization
 **Description:** In Project 2, I recreated, implemented, and evaluated an IoT service placement algorithm from a research paper by Liu, C., Wang, J., Zhou, L., et al. The goal was to benchmark this algorithm against other metaheuristic optimization methods commonly used in Fog Computing. This project aimed to assess the algorithm's performance, efficiency, and scalability, contributing to the field's advancement and guiding decision-makers in optimizing IoT service deployments.
