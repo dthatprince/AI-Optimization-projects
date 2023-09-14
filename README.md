@@ -14,10 +14,10 @@ My List of Linear/Hard Constraint Programming, Metaheuristic and Multi-Objective
 
 **Link:** [Project 2 Repository](https://github.com/dthatprince/AI-Optimization-projects/tree/main/Multi-Objective%20IoT%20Service%20Placement%20Optimization)
 
-## Project 3: Traveling Salesman Problem (TSP) Optimization
+## Project 3: TabuSearch Optimization for the Traveling Salesman Problem (TSP) Optimization
 **Description:** Implemented optimization algorithms for solving the Traveling Salesman Problem (TSP). Evaluated solution quality and execution times, incorporating heuristic and local search techniques for improved results on real-world TSP instances. Demonstrated strong algorithmic and problem-solving skills.
 
-**Link:** [Project 3 Repository](insert_link_here)
+**Link:** [Project 3 Repository](https://github.com/dthatprince/AI-Optimization-projects/tree/main/TabuSearch%20Optimization%20for%20the%20Traveling%20Salesman)
 
 ## Project 4: Window Profile Stock Management Software Development
 **Description:** Developed software to optimize the management of profile stocks for a window manufacturing company, Vulex. The software allows the company to defer window production by one week on average to optimize profile usage. The objective is to achieve cost savings that pay off the software investment in just three years. The software enables the company to delay window production by one week on average, reducing costs and improving resource utilization. The goal is to recover the software investment within three years through cost savings. The project involves complex calculations, cost analysis, and customer satisfaction metrics to provide a comprehensive solution.
